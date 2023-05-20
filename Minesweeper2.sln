@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33414.496
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Minesweeper2", "Minesweeper2.vcxproj", "{EC396B6B-EB1F-4AA5-BDD4-BB34AB5772BA}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Minesweeper2", "src\Minesweeper2\Minesweeper2.vcxproj", "{EC396B6B-EB1F-4AA5-BDD4-BB34AB5772BA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

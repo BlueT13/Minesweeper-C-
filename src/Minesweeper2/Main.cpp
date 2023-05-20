@@ -1,7 +1,12 @@
 #include <iostream>
+using namespace std;
 
-int main()
+int main(void)
 {
-	std::cout << "Hello World";
-	return 0;
+	const int ROW = 9;
+	const int COL = 9;
+	const int MINES_COUNT = 10;
+
+	int board[ROW][COL];
+	bool boardFlag[ROW][COL];
 }

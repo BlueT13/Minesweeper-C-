@@ -1,6 +1,8 @@
-#include <bits/stdc++.h>
+#include <iostream>
+#include <string>
 
 #include "GameManager.h"
+using namespace std;
 
 //¸ÞÅ©·Î
 //#define ROW 9 

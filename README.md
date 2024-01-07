@@ -1,2 +1,2 @@
-# Minesweeper2
+# Minesweeper_cpp
 Implementing Minesweeper with C++
